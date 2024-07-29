@@ -1,0 +1,24 @@
+<Header>
+User name: 
+Location: 
+Model: 11-R
+Serial No.: 11R17012
+Firmware revision: 12.40E
+Software revision: 4-0 Rev XII (29-06-2015)
+Unit: log data
+C-factor: 1.00
+Comment: 
+
+K-line: K	100	678	951	1	0	54	96	
+analog inputs: Input 1:	offset: 0.00	factor: 0.00	connected: no;Input 2:	offset: 0.00	factor: 0.00	connected: no;Input 3:	offset: 0.00	factor: 0.00	connected: no;Input 4:	offset: 0.00	factor: 0.00	connected: no
+<Data>
+[d&t12/31/2035 11:50:55]	P	Year	Month	Day	Hour	Minute	Loc	GF	Error	Qbatt	Im	UeL	UE4	UE3	UE2	UE1	IV	Weight [ug]	Volume [l]]
+11/27/2021 17:00:08	P	21	11	27	17	58	1	0	0	130	22	0	4	0	0	0	6	20767	19576	
+11/27/2021 17:00:15	P	21	11	27	17	58	1	100	0	130	22	64	4	0	0	0	6	20767	19576	
+11/27/2021 17:01:15	P	21	11	27	17	59	1	100	0	130	35	64	4	0	0	0	6	20767	19577	
+11/27/2021 17:02:15	P	21	11	27	18	0	1	100	0	130	35	64	4	0	0	0	6	20767	19579	
+11/27/2021 17:03:15	P	21	11	27	18	1	1	100	0	130	35	65	4	0	0	0	6	20768	19580	
+11/27/2021 17:04:15	P	21	11	27	18	2	1	100	0	130	35	64	4	0	0	0	6	20768	19581	
+11/27/2021 17:05:15	P	21	11	27	18	3	1	100	0	130	35	64	4	0	0	0	6	20768	19582	
+11/27/2021 17:06:15	P	21	11	27	18	4	1	100	0	130	35	64	4	0	0	0	6	20768	19583	
+11/27/2021 17:07:15	P	21	11	27	18	5	1	100	0	130	35	64	4	0	0	0	6	20768	19585	

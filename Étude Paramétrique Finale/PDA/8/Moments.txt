@@ -1,0 +1,11 @@
+DXEX v7
+C:\Users\Ecole Polytech\Documents\My Flow Projects\TestComp.lda
+8:43:19 AM
+1;0.00 mm;0.00 mm;0.00 mm
+0:3
+"X [mm]"	"Y [mm]"	"Z [mm]"	"Date_Time"	"Count {Group 1}"	"Data Rate {Group 1} [#/s]"	"Validation {Group 1} [%]"	"Velocity U-Mean [m/s]"	"Velocity V-Mean [m/s]"	"Velocity U-RMS [m/s]"	"Velocity V-RMS [m/s]"	"Velocity U-MeanConf [m/s]"	"Velocity V-MeanConf [m/s]"	"Velocity U-RMSConf [m/s]"	"Velocity V-RMSConf [m/s]"	"Velocity U-AnodeCur [uA]"	"Velocity V-AnodeCur [uA]"	
+0.00	0.00	0.00	8:43:19 AM	100000	2635.77	82.15	-0.76	0.64	0.79	0.88	0.00	0.01	0.00	0.00	314	350
+0.00	0.00	0.00	8:44:03 AM	100000	2590.49	83.27	-0.80	0.66	0.77	0.88	0.00	0.01	0.00	0.00	294	352
+0.00	0.00	0.00	8:44:47 AM	100000	2619.38	82.98	-0.81	0.70	0.78	0.88	0.00	0.01	0.00	0.00	290	344
+0.00	0.00	0.00	8:45:31 AM	100000	2435.91	83.59	-0.76	0.70	0.76	0.86	0.00	0.01	0.00	0.00	283	336
+0.00	0.00	0.00	8:46:18 AM	100000	2548.48	84.23	-0.80	0.66	0.75	0.87	0.00	0.01	0.00	0.00	259	317
