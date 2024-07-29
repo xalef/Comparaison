@@ -6,8 +6,7 @@ Last update : July 2024
 
 # Data Science and Analytics files
 - **Étude Paramétrique Finale Folder** : Datasets
-- **EPF.m** : Data analytics and statistical analysis for the comparison of 4 datasets structured differently.
-Definition of an Linear Regression model to link two variables.
+- **EPF.m** : Data analytics and statistical analysis for the comparison of 4 datasets structured differently. Definition of a Linear Regression model for dimensional analysis.
 - **GRIMM.m** : Development of two physics-based mathematical algorithms to correct previous models.
 - **Figures folder** : Figures of the article and supplementary material
 
